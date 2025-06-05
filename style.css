@@ -1,0 +1,40 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom right, #4b0082, #daa520);
+  color: white;
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+}
+
+.logo {
+  width: 120px;
+  margin: 20px auto;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 20px 0;
+}
+
+p {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+input {
+  font-size: 1em;
+  width: 80%;
+  max-width: 250px;
+  padding: 8px;
+}
+
+button {
+  font-size: 1em;
+  margin: 5px;
+  padding: 10px 15px;
+}
